@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+.tudo{
+    display: flex;
+}
+
+.text{
+    color: rgb(26, 25, 25);
+}
+
+.botao{
+    text-align: center;
+}

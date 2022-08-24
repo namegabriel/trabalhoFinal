@@ -1,0 +1,17 @@
+.LULA{
+    display: flex;
+}
+h1{
+    color: rgb(71, 36, 167);;
+    background-color: rgb(243, 157, 27);
+    text-align: center;
+}
+p{
+    text-align: justify;
+    color:rgb(71, 36, 167);
+}
+
+.rodape{
+    text-align: center;
+    background-color: darkgray;
+}

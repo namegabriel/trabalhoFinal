@@ -1,0 +1,23 @@
+h1{ 
+    color: rgb(71, 36, 167);;
+    background-color: rgb(243, 157, 27);
+    text-align: center;
+}
+.voto{
+    text-align: center;
+}
+h2{
+    color:  rgb(243, 157, 27);
+}
+
+p{
+    text-align: justify;
+    color:rgb(71, 36, 167);
+}
+footer{
+    background-color: darkgray;
+}
+
+.eu{
+    text-align: center;
+}
